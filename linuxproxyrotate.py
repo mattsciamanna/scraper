@@ -94,7 +94,7 @@ except:
 # Replaces with your configuration information
 redis_host = "redis-17827.c57.us-east-1-4.ec2.cloud.redislabs.com"
 redis_port = 17827
-redis_password = "dFFYSFXQlu5E28IrN8fL6Y7yXt7iX4Hm"
+redis_password = "PW"
 
 #got rid of try except because if this fails, we're gonna wanna know.
 
